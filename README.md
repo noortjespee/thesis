@@ -7,4 +7,3 @@ This is the repository for my code with respect to the master thesis project. It
 - RQ4 model construction (RF and GBDT)
 - DummyClassifier for RQ1, RQ2 and RQ4 datasets
 - Raw dataset: 12 separate .csv files which are concatenated in the dataset initialization files
-- Initialized datasets .csv files obtained within the dataset initialization files
